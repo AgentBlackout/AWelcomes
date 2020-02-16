@@ -14,7 +14,7 @@ namespace AWelcomes
     [MetadataAttribute(
         "Welcome Messages",
         "Displays a welcome message for users",
-        "AgentBlackout"
+        "AgentBlackout", "Ashe"
     )]
     public class WelcomesMod : Mod<WelcomeSettings>
     {
